@@ -73,8 +73,8 @@ __________
 - **git init**;
 
 2. Создаем рабочий файл, сохраняем его, коммитим:
-- **git add README.md**;
-- **git commit -m "first commit"**;
+- **git add;
+- **git commit -m;
 
 3. Говорим какая ветка является главной (например **master** или **main**):
 - **git branch -M "branch name"**
