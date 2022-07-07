@@ -29,9 +29,12 @@
 * "git branch -d 'branch name'" - команда для удаления ветки git;
 
 * "git --graph" гафическое выведение веток git
+
 * "git push" команда для отправки репозитория в GitHUB
 
 * "git pull" выгрузить репозиторий из GitHUB
+
+* "git checkout -b branch_name" команда позволяющая создать ноаую ветку и перейти в нее.
 
 # To create a new repository on the command line
 echo "# siminar3" >> README.md
