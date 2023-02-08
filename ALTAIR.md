@@ -4,3 +4,4 @@
 
 * *git branch -M* - создание основной ветки;
 
+* *git push -u origin master* - отправка локального репозитория в GitHub;
