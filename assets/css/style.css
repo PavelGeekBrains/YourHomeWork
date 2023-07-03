@@ -1,0 +1,24 @@
+body {
+  background-color: #fff;
+}
+
+p {
+  color: #000;
+}
+
+h1,
+h2 {
+  text-align: center;
+  color: #000;
+}
+
+.logo {
+  text-align: center;
+}
+
+hr {
+  border: none;
+  color: #000;
+  background-color: #000;
+  height: 2px;
+}
