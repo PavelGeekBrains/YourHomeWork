@@ -9,3 +9,4 @@
 5. Делаем push вашей ветки;
 6. Оформляем pull request и делаем скрин;
 7. Profit!
+Changed from Pavlova
