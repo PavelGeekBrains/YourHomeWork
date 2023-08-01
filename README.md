@@ -67,4 +67,7 @@ git push -u origin main
 
 ### Pull Request
 
-* 
+* Делаем git push
+* Нажимаем в github кнопку Compare & pull request
+* Добавить комментарии
+* И нажимаем Create Pull Request
