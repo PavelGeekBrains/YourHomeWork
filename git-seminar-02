@@ -1,0 +1,42 @@
+## Второй семинар по гиту. Работа с ветками
+немного текста
+
+### Создание веток
+
+* *git branch branch_name* - команда, инициализирующая новую ветку с именем branch_name;
+
+* *git branch* - команда, отображающая список существующих веток;
+
+### Слияние веток
+
+* *git merge branch_name* - команда, осуществляющая слияние текущей ветки с branch_name;
+
+* *git branch -d branch_name* - команда, удаляющая ветку с именем branch_name;
+
+### Конфликты при слиянии
+
+* Конфликты при слиянии возникают, когда коммиты одной сливаемой ветки "противоречат" коммитам второй сливаемой ветки
+
+## Работа с удалённым репозиторием
+
+1. Связываем удалённый репозиторий с локальным
+
+### …Создаём новый репозиторий
+
+
+        echo "# delme" >> README.md
+        git init
+        git add README.md
+        git commit -m "first commit"
+        git branch -M main
+        git remote add origin https://github.com/iokob/delme.git
+        git push -u origin main`
+
+### …или push уже существующий 
+        git remote add origin https://github.com/iokob/delme.git
+        git branch -M main
+        git push -u origin main
+
+2. Работаем
+3. Отправляем на удалённый репозиторий работу командой `git push`
+4. Синхронизируем удалённый репозиторий с локальным командой `git pull`
