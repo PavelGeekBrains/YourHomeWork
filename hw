@@ -8,24 +8,5 @@
 
 *fork*-команда, позволяющая создать копию репозитория, для работы над проектом
 
+*pull request*- команда, для предложения изменений, запрос на вливание изменений в репозиторий
 
-
-
-
-[33mcommit 95412510aab2d56ce15bbed6e37e8272a4fa189d[m[33m ([m[1;36mHEAD -> [m[1;32mBatalova[m[33m)[m
-Author: Arisha <arisha.batalova14@yandex.ru>
-Date:   Sun Aug 6 15:09:07 2023 +0300
-
-    initial commit
-
-[33mcommit 03db72d9076a0586b9bd44632bad4032e3550165[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
-Author: PavelGeekBrains <99759073+PavelGeekBrains@users.noreply.github.com>
-Date:   Fri Feb 3 12:10:06 2023 +0300
-
-    Update README.md
-
-[33mcommit 38ab2f5df3eac9b3f8f7ce58c195446fd941d290[m
-Author: PavelGeekBrains <99759073+PavelGeekBrains@users.noreply.github.com>
-Date:   Fri Feb 3 12:05:08 2023 +0300
-
-    Initial commit
